@@ -1,7 +1,6 @@
 //WAP to enter an element at specific position into array. (Do not take a new array) 
 #include <stdio.h>
-
-int main() {
+void main() {
     int n, element, position;
     printf("Enter the size of the array: ");
     scanf("%d", &n);
