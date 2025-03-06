@@ -13,5 +13,5 @@ void main(){
         octal /= 10;  
         position++;  
     }
-    printf("Decimal: %d", decimal);
+    printf("Hexa-ecimal: %x", decimal);
 }
